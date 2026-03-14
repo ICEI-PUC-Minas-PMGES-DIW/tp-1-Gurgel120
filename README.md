@@ -3,8 +3,8 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Kauã Ferreira Silva
+- Matricula: 910886
 
 ## Tela de inspeção com navegador
 
@@ -18,3 +18,5 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
+![Inspeção Network](Inspeção_Network.png)
+![Site Hello World](Site_Hello_World.png)
